@@ -28,7 +28,8 @@ and when <code>Today</code> is clicked, it shows the current month.
 
 #### Todos
 ```
-This uses the *svelte/store* feature. Initially couple of sample todos are displayed. When a user tries to delete a todo, 
-there are to options in form of icons for `thumb-up` or `thumb-down`. This was thought of as an alternative to a 
-confirmation dialog. [Remove All] button enables to remove all items.
+This uses the *svelte/store* feature. Initially couple of sample todos are displayed. When a user 
+tries to delete a todo, there are to options in form of icons for `thumb-up` or `thumb-down`. 
+This was thought of as an alternative to a confirmation dialog. [Remove All] button enables to 
+remove all items.
 ```
