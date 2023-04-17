@@ -1,2 +1,3 @@
-# sveltehackdemo
- Demo app for Svelte Hackathon
+# SvelteHackDemo
+
+## Demo app for Svelte Hackathon
