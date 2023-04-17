@@ -12,3 +12,5 @@
 ```
 yarn dev OR npm run dev
 ```
+
+### [Demo link](https://github.com/srikantgdev/sveltehackdemo/blob/main/sveltehackdemo.mov)
