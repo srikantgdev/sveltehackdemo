@@ -4,7 +4,8 @@
 
 ### Clone the app
 
-- Clone the app
+- Clone the app 
+- cd to the app folder
 - npm i / yarn to install dependencies
 
 ### Run the app
